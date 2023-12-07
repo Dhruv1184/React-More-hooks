@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+}
+.div{
+  background-color: rgb(202, 202, 82);
+}
+input{
+  font-size: 4vh;
+}
+button{
+  font-size: 4vh;
+}
